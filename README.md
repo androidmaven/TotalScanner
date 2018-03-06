@@ -1,5 +1,6 @@
 # TotalScanner
-A malware detection app powered by Google's VirusTotal
+A malware detection app powered by Google's VirusTotal.
+Preview version : https://drive.google.com/file/d/1EbBFtC1Cq134Cvx2xNzQzthaLuEDbCZW/view?usp=sharing
 
 # Description
 A basic malware dectection app, built with a custom SDK to access VirusTotal's API. (VirusTotal Unofficial SDK will soon be released).
